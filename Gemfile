@@ -5,3 +5,4 @@ ruby "3.0.4"
 
 gem "rails", "~> 7.0.4"
 gem 'httparty', '~> 0.13.7'
+gem 'pg'
